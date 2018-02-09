@@ -14,7 +14,7 @@ This lecture includes a fundamental subject about Python programming language, i
 - [06-classification-hard.ipynb](06-classification-hard.ipynb)
 - [07-precision-recall.ipynb](07-precision-recall.ipynb)
 
-## How it run
+## How to run
 
 Recommend to install [`docker-compose`](https://docs.docker.com/compose/install/) before run these commands.
 
